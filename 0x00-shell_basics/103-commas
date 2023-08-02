@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -paX |tr '\n' ','|sed 's/,$/\n/'
+ls -p -a -X |tr '\n' ','|sed 's/,$/\n/'
