@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf"hello $USER"
+prinf "%.2f\n" $NUM
